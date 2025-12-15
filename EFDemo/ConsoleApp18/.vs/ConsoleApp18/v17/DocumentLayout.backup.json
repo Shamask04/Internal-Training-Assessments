@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\ConsoleApp18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Migrations\\20251215180517_CheckManytoMany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B478C61F-98ED-4F65-BEB0-3ACF4D4CF79D}|..\\DataAccess\\DataAccess.csproj|c:\\users\\shama s k\\downloads\\efdemo\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9682C02E-676E-4699-8251-294FD6F95EA5}|..\\Models\\DataModels.csproj|c:\\users\\shama s k\\downloads\\efdemo\\models\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9682C02E-676E-4699-8251-294FD6F95EA5}|..\\Models\\DataModels.csproj|c:\\users\\shama s k\\downloads\\efdemo\\models\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Migrations\\20251215175743_CheckOneToMany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9682C02E-676E-4699-8251-294FD6F95EA5}|..\\Models\\DataModels.csproj|c:\\users\\shama s k\\downloads\\efdemo\\models\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9682C02E-676E-4699-8251-294FD6F95EA5}|..\\Models\\DataModels.csproj|c:\\users\\shama s k\\downloads\\efdemo\\models\\models\\bookauthormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9682C02E-676E-4699-8251-294FD6F95EA5}|..\\Models\\DataModels.csproj|c:\\users\\shama s k\\downloads\\efdemo\\models\\models\\bookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shama S K\\Downloads\\EFDemo\\ConsoleApp18\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251215180517_CheckManytoMany.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Migrations\\20251215180517_CheckManytoMany.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Migrations\\20251215180517_CheckManytoMany.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Migrations\\20251215180517_CheckManytoMany.cs",
+              "RelativeToolTip": "..\\DataAccess\\Migrations\\20251215180517_CheckManytoMany.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:05:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251215175743_CheckOneToMany.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Migrations\\20251215175743_CheckOneToMany.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Migrations\\20251215175743_CheckOneToMany.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Migrations\\20251215175743_CheckOneToMany.cs",
+              "RelativeToolTip": "..\\DataAccess\\Migrations\\20251215175743_CheckOneToMany.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:57:43.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:28:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\Publisher.cs",
+              "RelativeToolTip": "..\\Models\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:28:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\Book.cs",
+              "RelativeToolTip": "..\\Models\\Models\\Book.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:28:55.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\BookDetail.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Models\\BookDetail.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\BookDetail.cs",
+              "RelativeToolTip": "..\\Models\\Models\\BookDetail.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:28:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookAuthorMap.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\BookAuthorMap.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Models\\BookAuthorMap.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\BookAuthorMap.cs",
+              "RelativeToolTip": "..\\Models\\Models\\BookAuthorMap.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvxEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:28:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\Models\\Models\\Author.cs",
+              "RelativeToolTip": "..\\Models\\Models\\Author.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:28:55.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\ConsoleApp18\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shama S K\\Downloads\\EFDemo\\ConsoleApp18\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:28:55.278Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

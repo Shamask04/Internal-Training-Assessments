@@ -1,0 +1,24 @@
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\bin\Debug\net8.0\DataModels.deps.json
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\bin\Debug\net8.0\DataModels.dll
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\bin\Debug\net8.0\DataModels.pdb
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\DataModels.dll
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\refint\DataModels.dll
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\DataModels.pdb
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\ref\DataModels.dll
+C:\Users\partha.bora\source\repos\SpecflowDemo\Models\obj\Debug\net8.0\DataModels.csproj.AssemblyReference.cache
+C:\Users\Shama S K\Downloads\EFDemo\Models\bin\Debug\net8.0\DataModels.deps.json
+C:\Users\Shama S K\Downloads\EFDemo\Models\bin\Debug\net8.0\DataModels.dll
+C:\Users\Shama S K\Downloads\EFDemo\Models\bin\Debug\net8.0\DataModels.pdb
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\DataModels.csproj.AssemblyReference.cache
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\DataModels.dll
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\refint\DataModels.dll
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\DataModels.pdb
+C:\Users\Shama S K\Downloads\EFDemo\Models\obj\Debug\net8.0\ref\DataModels.dll
