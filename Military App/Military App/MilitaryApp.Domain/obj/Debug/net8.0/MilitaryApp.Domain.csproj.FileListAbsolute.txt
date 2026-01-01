@@ -1,0 +1,12 @@
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\bin\Debug\net8.0\MilitaryApp.Domain.deps.json
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\bin\Debug\net8.0\MilitaryApp.Domain.dll
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\bin\Debug\net8.0\MilitaryApp.Domain.pdb
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\MilitaryApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\MilitaryApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\MilitaryApp.Domain.AssemblyInfo.cs
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\MilitaryApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\MilitaryApp.Domain.sourcelink.json
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\MilitaryApp.Domain.dll
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\refint\MilitaryApp.Domain.dll
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\MilitaryApp.Domain.pdb
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.Domain\obj\Debug\net8.0\ref\MilitaryApp.Domain.dll

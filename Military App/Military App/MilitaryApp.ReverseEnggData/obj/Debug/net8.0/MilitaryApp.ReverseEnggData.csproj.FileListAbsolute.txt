@@ -1,0 +1,15 @@
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\bin\Debug\net8.0\MilitaryApp.ReverseEnggData.deps.json
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\bin\Debug\net8.0\MilitaryApp.ReverseEnggData.runtimeconfig.json
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\bin\Debug\net8.0\MilitaryApp.ReverseEnggData.dll
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\bin\Debug\net8.0\MilitaryApp.ReverseEnggData.pdb
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.csproj.AssemblyReference.cache
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.AssemblyInfoInputs.cache
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.AssemblyInfo.cs
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.csproj.CoreCompileInputs.cache
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.sourcelink.json
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.dll
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\refint\MilitaryApp.ReverseEnggData.dll
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.pdb
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\MilitaryApp.ReverseEnggData.genruntimeconfig.cache
+C:\Users\Shama S K\Downloads\15-12-25\Military App\Military App\MilitaryApp.ReverseEnggData\obj\Debug\net8.0\ref\MilitaryApp.ReverseEnggData.dll
