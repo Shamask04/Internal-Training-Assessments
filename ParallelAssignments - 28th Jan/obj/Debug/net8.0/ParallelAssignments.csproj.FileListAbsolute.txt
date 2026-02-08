@@ -1,0 +1,16 @@
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\bin\Debug\net8.0\data.txt
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\bin\Debug\net8.0\ParallelAssignments.exe
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\bin\Debug\net8.0\ParallelAssignments.deps.json
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\bin\Debug\net8.0\ParallelAssignments.runtimeconfig.json
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\bin\Debug\net8.0\ParallelAssignments.dll
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\bin\Debug\net8.0\ParallelAssignments.pdb
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.AssemblyInfoInputs.cache
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.AssemblyInfo.cs
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.sourcelink.json
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.dll
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\refint\ParallelAssignments.dll
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.pdb
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ParallelAssignments.genruntimeconfig.cache
+C:\Users\Shama S K\Downloads\15-12-25\ParallelAssignments\obj\Debug\net8.0\ref\ParallelAssignments.dll

@@ -1,0 +1,21 @@
+﻿apple banana orange
+this line has apple
+nothing interesting here
+apple appears again
+random text without keyword
+APPLE in uppercase should not match
+another apple here
+banana banana apple
+no fruits mentioned
+apple at the end
+
+this is a longer section
+to simulate a bigger file
+apple hidden in text
+some more random words
+yet another apple found
+apple apple apple
+no match here
+testing parallel search
+search term apple again
+final apple occurrence
